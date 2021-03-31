@@ -7,4 +7,4 @@
 before being used.
 ***
 ### General overview of the codes:
-- **dic_list_dic**.py :- This code is to be used when there is a _**nested dictionary of lists of dictionaries**_.
+- **dic_list_dic.py** :- This code is to be used when there is a _**nested dictionary of lists of dictionaries**_.
