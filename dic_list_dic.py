@@ -1,4 +1,4 @@
-# If there is a nested Dictionary of Lists of Dictionaries (eg. below)
+# If there is a nested dictionary of list containing dictionaries (eg. below)
 
 sample_dict = {"dog": [
 {"name": "tom", "owner": "haley", "breed": "corgi"},
