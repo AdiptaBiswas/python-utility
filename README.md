@@ -4,6 +4,7 @@
 - Codes to be _copied_ and _implemented_ accordingly in Python script.
 - Code to be used according to respective data structure in provided script.
 - Example codes to be followed in every _**.py**_ files for better understanding before being used.
+- **General overview of the codes** part to be viewed as a reference/content of the codes.
 ***
 ### 👓 General overview of the codes:
 - **dic_list_dic.py** :- This code is to be used when there is a _**nested dictionary of lists containing other dictionaries**_.
