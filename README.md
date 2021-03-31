@@ -8,3 +8,4 @@
 ### 👓 General overview of the codes:
 - **dic_list_dic.py** :- This code is to be used when there is a _**nested dictionary of lists containing other dictionaries**_.
 - **list_dic_list_dic.py** :- This code is to be used when there is a _**nested list of dictionaries containing other list of dictionaries**_.
+- **dic_list.py** :- This code is to be used when there is a _**dictionary with list as values**_.
