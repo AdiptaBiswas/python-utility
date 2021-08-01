@@ -13,3 +13,4 @@
 - **dic_list.py** :- This code is to be used when there is a _**dictionary with list as values**_.
 - **html-parser.py** :- This code is to be used when there is an HTML document to be parsed and identify _**elements**_.
 - **regex-find-numbers.py** :- This code is to be used when _**to find numbers in a given string using Regular Expression**_.
+- **regex-validate-password.py** :- This code is to be used when _**to validate a given password using Regular Expression**_.
